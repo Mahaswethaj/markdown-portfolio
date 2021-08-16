@@ -1,6 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills.
-❤ :*heart:
-👍 :*+1 :
-🙂 :*smile:
-💥 :*sparkles:
-🎉 :*tada:
+Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills
+:*heart:
+:*+1:
+:*smile:
+:*sparkles:
+:*tada:
